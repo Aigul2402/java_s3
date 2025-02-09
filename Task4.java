@@ -8,6 +8,7 @@ public class Task4 {
         catalog.add(new ArrayList<>(List.of("Проза", "Война и мир", "Буратино")));
         catalog.add(new ArrayList<>(List.of("Поэзия", "Бородино", "Евгений  Онегин")));
         System.out.println(catalog);
+        
     }
 
 }
