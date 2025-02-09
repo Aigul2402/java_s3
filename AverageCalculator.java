@@ -4,7 +4,7 @@ public class AverageCalculator {
             int sum1 = 0;
             for (int num : a) {
             sum1+=num;}
-        return (int)  sum1 /a.length;
+        return (int) Math.round ((double) sum1 /a.length);
         }
 }
     

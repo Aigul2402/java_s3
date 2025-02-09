@@ -13,6 +13,7 @@ public class Printer4 {
 
         }
         
+
     AverageCalculator answer = new  AverageCalculator();
     int result = answer.calculateAverage(a);
     System.out.println(result);
